@@ -16,7 +16,7 @@ Saya adalah mahasiswa D4 Teknik Informatika semester 5 yang sangat antusias memb
 
 <br/>
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Backend & Database:**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
