@@ -39,7 +39,6 @@ Saya adalah mahasiswa D4 Teknik Informatika semester 5 yang sangat antusias memb
 <br/>
 
 ### Pinned Projects Rekomendasi
-*Pastikan kamu melakukan "Pin" pada repository ini di halaman utama profilmu:*
 1. **Lapak Lape Digital:** Menu digital & admin panel interaktif (Next.js, Supabase).
 2. **Titik Hening:** E-commerce Kopi Gayo lengkap dengan integrasi payment gateway Midtrans (Laravel).
 3. **Rupa Nusa:** Platform marketplace UMKM Batik Nusantara (Laravel).
