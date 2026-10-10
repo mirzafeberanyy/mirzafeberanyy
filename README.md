@@ -6,13 +6,13 @@
 
 ### Software Engineer | Tech Enthusiast | IT Student
 
-Saya adalah mahasiswa D4 Teknik Informatika semester 5 yang sangat antusias membangun sistem *backend*, merancang arsitektur web, dan mengelola infrastruktur server. Saya terbiasa mengubah logika bisnis yang rumit menjadi aplikasi yang berfungsi dan siap pakai.
+I am a 5th-semester Applied Informatics Engineering student highly passionate about building backend systems, designing web architectures, and managing server infrastructure. I thrive on translating complex business logic into functional, production-ready applications.
 
-- Sedang mengembangkan: **Lapak Lape Digital** & mengeksplorasi manajemen infrastruktur server.
-- Sedang mempelajari: **Flutter**, arsitektur sistem tingkat lanjut, dan *Data Analytics*.
-- **Mencari peluang magang 6 bulan** (Mulai Jan 2027) di bidang *Backend/Software Engineering*.
-- Tanya saya tentang: **Laravel, Next.js, PostgreSQL, atau Server Administration**.
-- Hubungi saya: [mirzafeberani@gmail.com](mailto:mirzafeberani@gmail.com)
+- Currently developing: **Lapak Lape Digital** & exploring server infrastructure management.
+- Currently learning: **Flutter**, advanced system architectures, and *Data Analytics*.
+- **Seeking a 6-month internship** (Starting Jan 2027) in *Backend/Software Engineering*.
+- Ask me about: **Laravel, Next.js, PostgreSQL, or Server Administration**.
+- Contact me: [mirzafeberani@gmail.com](mailto:mirzafeberani@gmail.com)
 
 <br/>
 
