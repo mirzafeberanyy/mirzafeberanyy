@@ -1,7 +1,9 @@
 # Hi there, I'm Mirza Feberani 👋
 
 <a href="https://linkedin.com/in/mirza-feberani-mf">
-  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=mirzafeberanyy&show_icons=true&theme=tokyonight" alt="Mirza's GitHub Stats" />
+  <img align="right" width="350"
+       src="https://github-readme-stats.vercel.app/api?username=mirzafeberanyy&show_icons=true&theme=tokyonight"
+       alt="Mirza's GitHub Stats" />
 </a>
 
 ### Software Engineer | Tech Enthusiast | IT Student
